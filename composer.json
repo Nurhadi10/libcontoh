@@ -1,0 +1,17 @@
+{
+    "name": "hadie/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nurhadi10",
+            "email": "nurhadisabani9c@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"hadie\\libhallo\\" : "src"}
+    },
+    "require": {}
+}
